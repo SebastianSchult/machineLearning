@@ -1,4 +1,5 @@
 # Machine Learning Portfolio Project
+<<<<<<< HEAD
 
 This repository contains my portfolio project for the Machine Learning / AI Foundations skill path.
 
@@ -32,3 +33,5 @@ In this project, I:
 ## Status
 
 🚧 In progress
+=======
+>>>>>>> 48419a1 (Initial commit with README)
