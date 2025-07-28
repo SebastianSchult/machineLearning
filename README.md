@@ -1,37 +1,42 @@
-# Machine Learning Portfolio Project
-<<<<<<< HEAD
+# 📊 Does Education Pay Off? A Socioeconomic Analysis of Income and Education Levels in the U.S.
 
-This repository contains my portfolio project for the Machine Learning / AI Foundations skill path.
+## 🧠 Project Overview
 
-## Overview
+In this project, I explore the relationship between education level and income using data from the U.S. Census Bureau. The goal is to analyze how education correlates with income across demographic factors such as age, gender, and race – and to build a simple model that can predict income class based on these features.
 
-In this project, I:
-- Collected and cleaned a dataset
-- Performed exploratory data analysis
-- Prepared data for machine learning modeling
-- Communicated key findings
+## 📌 Objectives
 
-## Project Steps
+- Explore U.S. Census data related to income and education
+- Perform exploratory data analysis (EDA)
+- Visualize trends and correlations
+- Build a machine learning model to predict income class
+- Communicate key findings using graphs and markdown
 
-1. Project Scoping
-2. Data Collection
-3. Data Cleaning & Wrangling
-4. Exploratory Data Analysis (EDA)
-5. Feature Engineering
-6. Modeling (optional)
-7. Communicate Findings
+## 🗂️ Dataset
 
-## Tools Used
+- Source: [UCI Adult Dataset](https://archive.ics.uci.edu/ml/datasets/adult)
+- Size: ~48,000 records
+- Features: age, workclass, education, marital-status, occupation, relationship, race, sex, hours-per-week, etc.
+- Target: income (`<=50K` or `>50K`)
+
+## 🔧 Technologies Used
 
 - Python
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
 - Jupyter Notebook
-- Git / GitHub
+- Git & GitHub
 
-## Status
+## 🧪 Status
 
-🚧 In progress
-=======
->>>>>>> 48419a1 (Initial commit with README)
+- [x] Repository created
+- [x] Project scoped
+- [ ] Data loaded & cleaned
+- [ ] EDA completed
+- [ ] Model implemented
+- [ ] Final results visualized & summarized
+
+## 📈 Outcome
+
+To be updated after analysis...
